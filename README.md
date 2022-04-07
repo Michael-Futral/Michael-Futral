@@ -1,5 +1,5 @@
 <p align="center" >👋 Hi there! I'm Michael.</p>
-<br/>
+<hr/>
 
 <!--
 **Michael-Futral/Michael-Futral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
