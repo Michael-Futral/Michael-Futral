@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on open source, work & personal projects
 - 🌱 I'm always learning new and exciting tools in the ever evolving developer world.
-- 💬 You can reach me by email at <a href='mailto:MicahelFutral01@gmail.com'>MichaelFutral01@gmail.com</a>, or by connecting with me on <a href="https://www.linkedin.com/in/michael-futral">LinkedIn</a>.
+- 💬 Passionate about software development so feel free to contact me with any exciting projects I can help on, job opportunities, or if you just want to chat!
 - ⚡ Fun fact: 1 in 10 people think <a href="https://www.latimes.com/business/technology/la-fi-tn-1-10-americans-html-std-study-finds-20140304-story.html#axzz2v1X0Ct00">HTML is a disease</a>... &#128562;
 
 <hr/>
@@ -21,3 +21,5 @@ CONNECT WITH ME ON:
 <p align="left">
 <a href="https://www.linkedin.com/in/michael-futral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://meta.stackoverflow.com/users/15780137/futralmc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://www.facebook.com/michael.futral/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook-alt.svg" height="30" width="40" /></a>
+<a href='mailto:MicahelFutral01@gmail.com' target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="Email" height="30" width="40" /></a>
