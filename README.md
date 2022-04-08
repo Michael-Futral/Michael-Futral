@@ -82,7 +82,7 @@ Here are some ideas to get you started:-->
         </td>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank">
-            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Excel-VBA-1.png" width="48" height="48" alt="Visual Basics" />
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/VB.NET_Logo.svg.png" width="48" height="48" alt="Visual Basics" />
           </a>
           <br>Visual Basics
         </td>
