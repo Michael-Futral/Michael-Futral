@@ -18,7 +18,7 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: 1 in 10 people think <a href="https://www.latimes.com/business/technology/la-fi-tn-1-10-americans-html-std-study-finds-20140304-story.html#axzz2v1X0Ct00" target="_blank" rel="noreferrer noopener">HTML is a disease</a>... &#128562;
 
 <hr/>
-
+<br/> 
 
 <h3><i>Connect with me through:</i></h3>
 <p align="left">
@@ -30,6 +30,8 @@ Here are some ideas to get you started:-->
 </a>
 <br/>   
 <hr/>
+<br/> 
+<h3><i>Current skills encompass:</i></h3>
 
  <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages</b></summary>
