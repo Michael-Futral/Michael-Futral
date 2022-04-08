@@ -28,5 +28,4 @@ Here are some ideas to get you started:-->
 <a href="https://twitter.com/futral_michael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
   <a href="https://www.instagram.com/futralmc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 </a>
-<hr/>
-<br/>
+
