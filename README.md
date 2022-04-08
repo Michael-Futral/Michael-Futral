@@ -40,12 +40,23 @@
   <summary><b>🛠️&nbsp;&nbsp;Languages</b></summary>
   <p align="left"> 
     <table style="table-layout:fixed;">
-      <tr>
-        <td align="center" width="96">
-          <a href="https://www.cprogramming.com/" target="_blank">
-            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/c-original.svg" width="48" height="48" alt="C" />
+     <td align="center" width="96">
+          <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/1200px-HTML5_logo_and_wordmark.svg.png" width="48" height="48" alt="HTML5" />
           </a>
-          <br>C
+          <br>HTML5
+        </td>
+        <td align="center" width="96">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/css3-original.svg" width="48" height="48" alt="CSS" />
+          </a>
+          <br>CSS
+        </td>
+        <td align="center" width="96">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/javascript-original.svg" width="48" height="48" alt="javascript" />
+          </a>
+          <br>JavaScript
         </td>
         <td align="center" width="96">
           <a href="https://nodejs.org/en/docs" target="_blank">
@@ -59,25 +70,17 @@
           </a>
           <br>Python
         </td>
-      </td>
-        <td align="center" width="96">
-          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/css3-original.svg" width="48" height="48" alt="CSS" />
+       <td align="center" width="96">
+          <a href="https://nodejs.org/en/docs/" target="_blank">
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/nodejs-45adbe594d.png" width="48" height="48" alt="NodeJS" />
           </a>
-          <br>CSS
+          <br>NodeJS
         </td>
-      </td>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Excel-VBA-1.png" width="48" height="48" alt="VBA" />
           </a>
           <br>VBA
-        </td>
-        <td align="center" width="96">
-          <a href="https://nodejs.org/en/docs/" target="_blank">
-            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/nodejs-45adbe594d.png" width="48" height="48" alt="NodeJS" />
-          </a>
-          <br>NodeJS
         </td>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank">
@@ -86,22 +89,17 @@
           <br>Visual Basics
         </td>
         <td align="center" width="96">
-          <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/1200px-HTML5_logo_and_wordmark.svg.png" width="48" height="48" alt="HTML5" />
-          </a>
-          <br>HTML5
-        </td>
-        <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/net-framework-c-net-core-software-framework-mono-studio.jpg" width="48" height="48" alt="C#" />
           </a>
           <br>C#
         </td>
+        <tr>
         <td align="center" width="96">
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/javascript-original.svg" width="48" height="48" alt="javascript" />
+          <a href="https://www.cprogramming.com/" target="_blank">
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/c-original.svg" width="48" height="48" alt="C" />
           </a>
-          <br>JavaScript
+          <br>C
         </td>
       </table>
     </p>
