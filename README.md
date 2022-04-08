@@ -17,8 +17,7 @@ Here are some ideas to get you started:-->
 - 💬 Passionate about software development so feel free to contact me with any exciting projects I can help on, job opportunities, or if you just want to chat!
 - ⚡ Fun fact: 1 in 10 people think <a href="https://www.latimes.com/business/technology/la-fi-tn-1-10-americans-html-std-study-finds-20140304-story.html#axzz2v1X0Ct00" target="_blank" rel="noreferrer noopener">HTML is a disease</a>... &#128562;
 
-<hr/>
-<br/> 
+<hr/> 
 
 <h3><i>Connect with me through:</i></h3>
 <p align="left">
@@ -28,9 +27,11 @@ Here are some ideas to get you started:-->
 <a href="https://twitter.com/futral_michael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/futralmc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a><a href="https://www.codegrepper.com/profile/michael-futral" target="blank"><img align="center" src="https://www.codegrepper.com/images/logo_colors_small.png" alt="gautamkrishnar" height="30" width="40" /></a>
 </a>
-<br/>   
+<br/>  
+ <br/>
 <hr/>
-<br/> 
+ 
+
 <h3><i>Current skills encompass:</i></h3>
 
  <details>
@@ -105,10 +106,6 @@ Here are some ideas to get you started:-->
     </p>
 </details> 
 
-
-
-
-
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Tools / Frameworks</b></summary>
   <br/>
@@ -159,6 +156,5 @@ Here are some ideas to get you started:-->
         </td>
     </table>
   </p>
-</details>      
-        
+</details>       
        
