@@ -38,7 +38,6 @@ Here are some ideas to get you started:-->
 
  <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages</b></summary>
-  <br/>
   <p align="left"> 
     <table style="table-layout:fixed;">
       <tr>
@@ -110,7 +109,6 @@ Here are some ideas to get you started:-->
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Tools / Frameworks</b></summary>
-  <br/>
   <p align="left"> 
     <table style="table-layout:fixed;">
       <tr>
