@@ -38,7 +38,7 @@ Here are some ideas to get you started:-->
   <summary><b>🛠️&nbsp;&nbsp;Languages</b></summary>
   <br/>
   <p align="left"> 
-    <table>
+    <table style="table-layout:fixed;">
       <tr>
         <td align="center" width="96">
           <a href="https://www.cprogramming.com/" target="_blank">
@@ -110,7 +110,7 @@ Here are some ideas to get you started:-->
   <summary><b>🛠️&nbsp;&nbsp;Tools / Frameworks</b></summary>
   <br/>
   <p align="left"> 
-    <table>
+    <table style="table-layout:fixed;">
       <tr>
         <td align="center" width="96">
           <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/" target="_blank">
