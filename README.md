@@ -4,7 +4,7 @@
 <h1 align="center">HELLO THERE!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px"></h1>
 <br/>
 
-You've enter the place where I make stuff, fix stuff, and try not to break stuff!  &#128523;
+You've entered the place where I make stuff, fix stuff, and try not to break stuff!  &#128523;
 <hr/>
 
 <!--
