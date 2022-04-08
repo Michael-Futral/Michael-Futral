@@ -30,7 +30,9 @@ Here are some ideas to get you started:-->
 </a>
 <br/>
   
-  <br/><br/>
+<hr/>
+  
+
   <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages</b></summary>
   <br/>
