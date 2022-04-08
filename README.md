@@ -34,10 +34,8 @@ Here are some ideas to get you started:-->
 
 
 <h3><i>Current skills encompass:</i></h3>
-
  <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages</b></summary>
-  <br/>
   <p align="left">
     <table style="table-layout:fixed;">
       <tr>
@@ -105,11 +103,11 @@ Here are some ideas to get you started:-->
         </td>
       </table>
     </p>
+
 </details>
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Tools / Frameworks</b></summary>
-  <br/>
   <p align="left">
     <table style="table-layout:fixed;">
       <tr>
