@@ -1,7 +1,10 @@
+[![Contribute in the browser](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Michael-Futral/Michael-Futral)
+
+
 <h1 align="center">HELLO THERE!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px"></h1>
 <br/>
 
-You've enter the place where I make stuff, fix stuff, and try not to break stuff!  &#128523;
+You've entered the place where I make stuff, fix stuff, and try not to break stuff!  &#128523;
 <hr/>
 
 <!--
@@ -12,103 +15,52 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on open source, work & personal projects
 - 🌱 I'm always learning new and exciting tools in the ever evolving developer world.
 - 💬 Passionate about software development so feel free to contact me with any exciting projects I can help on, job opportunities, or if you just want to chat!
-- ⚡ Fun fact: 1 in 10 people think <a href="https://www.latimes.com/business/technology/la-fi-tn-1-10-americans-html-std-study-finds-20140304-story.html#axzz2v1X0Ct00">HTML is a disease</a>... &#128562;
+- ⚡ Fun fact: 1 in 10 people think <a href="https://www.latimes.com/business/technology/la-fi-tn-1-10-americans-html-std-study-finds-20140304-story.html#axzz2v1X0Ct00" target="_blank" rel="noreferrer noopener">HTML is a disease</a>... &#128562;
 
 <hr/>
-<br/>
 
-CONNECT WITH ME ON:
+
+<h3><i>Connect with me through:</i></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/michael-futral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://meta.stackoverflow.com/users/15780137/futralmc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://www.facebook.com/michael.futral/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook-alt.svg" height="30" width="40" /></a>
-<a href='mailto:MicahelFutral01@gmail.com' target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="Email" height="30" width="40" /></a>
+<a href='mailto:MicahelFutral01@gmail.com' target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="Email" height="30" width="40" />
+<a href="https://twitter.com/futral_michael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/futralmc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a><a href="https://www.codegrepper.com/profile/michael-futral" target="blank"><img align="center" src="https://www.codegrepper.com/images/logo_colors_small.png" alt="gautamkrishnar" height="30" width="40" /></a>
+</a>
+<br/>
+
+<hr/>
 
 
+  <details>
+  <summary><b>🛠️&nbsp;&nbsp;Languages</b></summary>
+  <br/>
+  <p align="left">
+    <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+    <a href="https://nodejs.org/en/docs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="python" width="40" height="40"/></a>
+    <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank"><img src="https://www.ignatiuz.com/wp-content/uploads/2018/09/Excel-VBA-1.png" alt="VBA" width="40" height="40"/>
+    <a href="https://nodejs.org/en/docs/" target="_blank"> <img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" alt="NodeJS" width="40" height="40"/> </a>
+   <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/2048px-VB.NET_Logo.svg.png" alt="Visual Basics" width="40" height="40"/> </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="40" height="40"/> </a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://p7.hiclipart.com/preview/929/60/54/net-framework-c-net-core-software-framework-mono-studio.jpg" alt="C#" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  </p>
+</details>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-[![Contribute in the browser](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/eddiejaoude/eddiejaoude)
-
-<a href="http://eddiejaoude.io" target="_blank"><img src="https://github.com/EddieHubCommunity/Branding/raw/main/community/Eddie_banner_GIF.gif" /></a>
-
-<p align="center">I believe Open Source is for EVERYONE; yes, YOU TOO! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out on Videos and Live streams 🎥</p>
-
-- 🌟 Part of the <a href="https://stars.github.com/profiles/eddiejaoude/"> GitHub Stars program</a>
-- 🟩 Join our inclusive community <a href="http://eddiehub.org">EddieHub</a>!</b> Where we believe Collaboration 1st, Code 2nd!
-- 📸 FREE video course on <a href="http://eddiejaoude.io/course-github-profile-landing">How to make your GitHub profile standout</a>
-- 📰 Sign up to my monthly community <a href="http://eddiejaoude.io/newsletters">newsletter</a> to be kept up-to-date with upcoming events, community achievements and more
-
-<p align="center">
-  <a href="http://twitter.com/eddiejaoude">
-    <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
-  </a>
-  <a href="https://discord.com/invite/jZQs6Wu">
-    <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge&color=blue" />
-  </a>
-  <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC5mnBodB73bR88fLXHSfzYA?style=for-the-badge&logo=youtube&label=Youtube&color=blue" />
-  </a>
-</p>
-
----
-
-### Latest YouTube videos
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [GitHub Issues using Agile story points label to show effort/complexity etc](https://www.youtube.com/watch?v=Yd2FhXcxtYM)
-- [GitHub Open Source project reviews with Martin Woodward from GitHub](https://www.youtube.com/watch?v=xJ-gNEIBD6M)
-- [How to send daily Open Source tips by email and SMS with Dima Grossman](https://www.youtube.com/watch?v=W2EybtWhZqo)
-- [Focusing on React and finding a job with Julia Undeutsch](https://www.youtube.com/watch?v=MWWr3iFyLu0)
-- [Upload files using NextJS and Digital Ocean Spaces &lpar;AWS S3&rpar;](https://www.youtube.com/watch?v=HmHOTW2lNV8)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-
----
-
-### Testimonials
-
-<table>
-  <tr>
-    <th>Author</th>
-    <th>Message</th>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://twitter.com/urlichsanais/status/1349358736092094467">Anaïs Urlichs</a></td>
-    <td>Eddie is probably the most genuine and kind person I know in tech 🥰 providing opportunities and consistently cheering without expecting anything in return! He just recommended me for a podcast 😱</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://twitter.com/yalematta/status/1304541107330658313">Layale</a></td>
-    <td>Following @eddiejaoude videos helped me a lot. You'll learn by practicing during his livestreams. Check his YouTube channel!</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://twitter.com/__nawalhmw/status/1304572901140635648">Nawal Alhamwi</a></td>
-    <td>YES, CAN'T AGREE MORE!! 💯 His videos (both the content && the way he delivers information) made me love Github more!🤩 Thanks @eddiejaoude 🌟</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://twitter.com/allanregush/status/1304484456221167617">Allan Regush</a></td>
-    <td>Working with @eddiejaoude and his open source community has been a positive experience. If you have been wanting to contribute to open source but don't know where to start. Come join the community.</td>
-  </tr>
-</table>
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;Tools / Frameworks</b></summary>
+  <br/>
+  <p align="left">
+    <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/doc" target="_blank"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/> </a>
+    <a href="https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2022" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/768px-Visual_Studio_2017_Logo.svg.png" alt="Visual Studio" width="40" height="40"/> </a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank"> <img src="https://p7.hiclipart.com/preview/278/63/747/visual-basic-net-c-computer-programming-net-framework-vb-logo.jpg" alt="VB.net" width="40" height="40"/> </a>
+    <a href="https://docs.github.com/en/github" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="Github" width="40" height="40"/> </a>
+    <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="Powershell" width="40" height="40"/> </a>
+  </p>
+</details>
