@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on open source, work, & personal projects
 - 🌱 I'm always learning new and exciting tools in the ever evolving developer world.
-- 💬 You can reach me by email at <a href='mailto:MicahelFutral01@gmail.com'>MichaelFutral01@gmail.com</a>, or by connecting with me on <a href="linkedin.com/in/michael-futral">LinkedIn</a>.
+- 💬 You can reach me by email at <a href='mailto:MicahelFutral01@gmail.com'>MichaelFutral01@gmail.com</a>, or by connecting with me on <a href="https://www.linkedin.com/in/michael-futral">LinkedIn</a>.
 - ⚡ Fun fact: 1 in 10 people think <a href="https://www.latimes.com/business/technology/la-fi-tn-1-10-americans-html-std-study-finds-20140304-story.html#axzz2v1X0Ct00">HTML is a disease</a>... &#128562;
 
 <hr/>
