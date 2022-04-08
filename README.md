@@ -59,22 +59,16 @@
           <br>JavaScript
         </td>
         <td align="center" width="96">
-          <a href="https://nodejs.org/en/docs" target="_blank">
-            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/nodejs-original-wordmark.svg" width="48" height="48" alt="nodejs" />
+          <a href="https://nodejs.org/en/docs/" target="_blank">
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/nodejs-45adbe594d.png" width="48" height="48" alt="NodeJS" />
           </a>
-          <br>nodeJS
+          <br>NodeJS
         </td>
         <td align="center" width="96">
           <a href="https://www.python.org" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/python-original.svg" width="48" height="48" alt="Python" />
           </a>
           <br>Python
-        </td>
-       <td align="center" width="96">
-          <a href="https://nodejs.org/en/docs/" target="_blank">
-            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/nodejs-45adbe594d.png" width="48" height="48" alt="NodeJS" />
-          </a>
-          <br>NodeJS
         </td>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank">
