@@ -7,7 +7,6 @@
 <!-- HEADER -->
 <h3 align="center">You've entered the place where I make stuff, fix stuff, and try not to break stuff!  &#128523;</h3>
 <hr/>
-<br/>
 <!-- HEADER -->
 
 <!-- ABOUT SECTION-->
@@ -16,7 +15,7 @@
 - 💬 Passionate about software development so feel free to contact me with any exciting projects I can help on, job opportunities, or if you just want to chat!
 - ⚡ Fun fact: 1 in 10 people think <a href="https://www.latimes.com/business/technology/la-fi-tn-1-10-americans-html-std-study-finds-20140304-story.html#axzz2v1X0Ct00" target="_blank" rel="noreferrer noopener">HTML is a disease</a>... &#128562;
 <hr/>
-<!-- ABOUT SECTION-->>
+<!-- ABOUT SECTION-->
 
 
 
