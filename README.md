@@ -44,63 +44,63 @@ Here are some ideas to get you started:-->
       <tr>
         <td align="center" width="96">
           <a href="https://www.cprogramming.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/c-original.svg" width="48" height="48" alt="C" />
           </a>
           <br>C
         </td>
         <td align="center" width="96">
           <a href="https://nodejs.org/en/docs" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="nodejs" />
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/nodejs-original-wordmark.svg" width="48" height="48" alt="nodejs" />
           </a>
           <br>nodeJS
         </td>
         <td align="center" width="96">
           <a href="https://www.python.org" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/python-original.svg" width="48" height="48" alt="Python" />
           </a>
           <br>Python
         </td>
       </td>
         <td align="center" width="96">
           <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/css3-original.svg" width="48" height="48" alt="CSS" />
           </a>
           <br>CSS
         </td>
       </td>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank">
-            <img src="https://www.ignatiuz.com/wp-content/uploads/2018/09/Excel-VBA-1.png" width="48" height="48" alt="VBA" />
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Excel-VBA-1.png" width="48" height="48" alt="VBA" />
           </a>
           <br>VBA
         </td>
         <td align="center" width="96">
           <a href="https://nodejs.org/en/docs/" target="_blank">
-            <img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" width="48" height="48" alt="NodeJS" />
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/nodejs-45adbe594d.png" width="48" height="48" alt="NodeJS" />
           </a>
           <br>NodeJS
         </td>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/2048px-VB.NET_Logo.svg.png" width="48" height="48" alt="Visual Basics" />
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Excel-VBA-1.png" width="48" height="48" alt="Visual Basics" />
           </a>
           <br>Visual Basics
         </td>
         <td align="center" width="96">
           <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="48" height="48" alt="HTML5" />
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/1200px-HTML5_logo_and_wordmark.svg.png" width="48" height="48" alt="HTML5" />
           </a>
           <br>HTML5
         </td>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-            <img src="https://p7.hiclipart.com/preview/929/60/54/net-framework-c-net-core-software-framework-mono-studio.jpg" width="48" height="48" alt="C#" />
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/net-framework-c-net-core-software-framework-mono-studio.jpg" width="48" height="48" alt="C#" />
           </a>
           <br>C#
         </td>
         <td align="center" width="96">
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="javascript" />
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/javascript-original.svg" width="48" height="48" alt="javascript" />
           </a>
           <br>JavaScript
         </td>
@@ -116,43 +116,43 @@ Here are some ideas to get you started:-->
       <tr>
         <td align="center" width="96">
           <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
           </a>
           <br>Bootstrap
         </td>
         <td align="center" width="96">
           <a href="https://reactjs.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/react-original-wordmark.svg" width="48" height="48" alt="React" />
           </a>
           <br>React
         </td>
         <td align="center" width="96">
           <a href="https://git-scm.com/doc" target="_blank">
-            <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="Git" />
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Git-Icon-1788C.png" width="48" height="48" alt="Git" />
           </a>
           <br>Git
         </td>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2022" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/768px-Visual_Studio_2017_Logo.svg.png" width="48" height="48" alt="Visual Studio" />
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/768px-Visual_Studio_2017_Logo.svg.png" width="48" height="48" alt="Visual Studio" />
           </a>
           <br>Visual Studio
         </td>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank">
-            <img src="https://p7.hiclipart.com/preview/278/63/747/visual-basic-net-c-computer-programming-net-framework-vb-logo.jpg" width="48" height="48" alt="VB.net" />
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/visual-basic-net-c-computer-programming-net-framework-vb-logo.jpg" width="48" height="48" alt="VB.net" />
           </a>
           <br>VB.net
         </td>
         <td align="center" width="96">
           <a href="https://docs.github.com/en/github" target="_blank">
-            <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48" height="48" alt="Github" />
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Octocat.png" width="48" height="48" alt="Github" />
           </a>
           <br>Github
         </td>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="48" height="48" alt="Powershell" />
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/PowerShell_5.0_icon.png" width="48" height="48" alt="Powershell" />
           </a>
           <br>Powershell
         </td>
