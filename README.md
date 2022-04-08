@@ -1,26 +1,26 @@
 [![Contribute in the browser](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Michael-Futral/Michael-Futral)
 
-
+<!-- JUMBOTRON -->
 <h1 align="center">HELLO THERE!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px"></h1>
-<br/>
+<!-- JUMBOTRON -->
 
-<p align="center">You've entered the place where I make stuff, fix stuff, and try not to break stuff!  &#128523;</p>
+<!-- HEADER -->
+<h3 align="center">You've entered the place where I make stuff, fix stuff, and try not to break stuff!  &#128523;</h3>
 <hr/>
+<br/>
+<!-- HEADER -->
 
-<!--
-**Michael-Futral/Michael-Futral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
-
+<!-- ABOUT SECTION-->
 - 🔭 I’m currently working on open source, work & personal projects
 - 🌱 I'm always learning new and exciting tools in the ever evolving developer world.
 - 💬 Passionate about software development so feel free to contact me with any exciting projects I can help on, job opportunities, or if you just want to chat!
 - ⚡ Fun fact: 1 in 10 people think <a href="https://www.latimes.com/business/technology/la-fi-tn-1-10-americans-html-std-study-finds-20140304-story.html#axzz2v1X0Ct00" target="_blank" rel="noreferrer noopener">HTML is a disease</a>... &#128562;
-
-
 <hr/>
+<!-- ABOUT SECTION-->>
 
 
+
+<!-- CONTACT SECTION -->
 <h3><i>Connect with me through:</i></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/michael-futral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
@@ -32,10 +32,11 @@ Here are some ideas to get you started:-->
 <br/>  
 <br/>
 <hr/>
- 
+<!-- CONTACT SECTION -->
 
+
+<!-- LANGUAGE SKILLS SECTION -->
 <h3><i>Current skills encompass:</i></h3>
-
  <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages</b></summary>
   <p align="left"> 
@@ -106,7 +107,9 @@ Here are some ideas to get you started:-->
       </table>
     </p>
 </details> 
+<!-- LANGUAGE SKILLS SECTION -->
 
+<!-- TOOLS, FRAMEWORKS SKILLS SECTION -->
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Tools / Frameworks</b></summary>
   <p align="left"> 
@@ -156,6 +159,7 @@ Here are some ideas to get you started:-->
         </td>
     </table>
   </p>
-</details>       
+</details>      
+<!-- TOOLS, FRAMEWORKS SKILLS SECTION -->
        
 
