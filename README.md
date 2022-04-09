@@ -88,14 +88,12 @@
           </a>
           <br>C#
         </td>
-        <tr>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/xml.png" width="48" height="48" alt="C#" />
           </a>
           <br>XML
         </td>
-        <tr>
         <td align="center" width="96">
           <a href="https://www.cprogramming.com/" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/c-original.svg" width="48" height="48" alt="C" />
