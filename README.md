@@ -143,13 +143,13 @@
           </a>
           <br>.net
         </td>
+       <tr>
         <td align="center" width="96">
           <a href="https://docs.github.com/en/github" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Octocat.png" width="48" height="48" alt="Github" />
           </a>
           <br>Github
         </td>
-       <tr>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/PowerShell_5.0_icon.png" width="48" height="48" alt="Powershell" />
