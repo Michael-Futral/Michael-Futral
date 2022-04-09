@@ -149,12 +149,14 @@
           </a>
           <br>Github
         </td>
+       <tr>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/PowerShell_5.0_icon.png" width="48" height="48" alt="Powershell" />
           </a>
           <br>Powershell
         </td>
+     </tr>
     </table>
   </p>
 </details>
