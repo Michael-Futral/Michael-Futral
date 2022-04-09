@@ -69,6 +69,7 @@
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/python-original.svg" width="48" height="48" alt="Python" />
           </a>
           <br>Python
+        <tr>
         </td>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank">
@@ -100,6 +101,7 @@
           </a>
           <br>C
         </td>
+     </tr>
       </table>
     </p>
 </details>
