@@ -58,7 +58,6 @@
           </a>
           <br>JavaScript
         </td>
-        <tr>
         <td align="center" width="96">
           <a href="https://www.python.org" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/python-original.svg" width="48" height="48" alt="Python" />
@@ -71,6 +70,7 @@
           </a>
           <br>VBA
         </td>
+        <tr>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/VB.NET_Logo.svg.png" width="48" height="48" alt="Visual Basics" />
