@@ -1,7 +1,7 @@
 [![Contribute in the browser](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Michael-Futral/Michael-Futral)
 
 <!-- JUMBOTRON -->
-<h1 align="center" href="https://www.youtube.com/watch?v=34Ig3X59_qA">HELLO THERE!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px" target="_blank"></h1>
+<h1 align="center" >HELLO THERE!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px" target="_blank" href="https://www.youtube.com/watch?v=34Ig3X59_qA"></h1>
 <!-- JUMBOTRON -->
 
 <!-- HEADER -->
