@@ -60,13 +60,14 @@
           </a>
           <br>JavaScript
         </td>
+        </tr>
+        <tr>
         <td align="center" width="96">
           <a href="https://www.python.org" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/python-original.svg" width="48" height="48" alt="Python" />
           </a>
           <br>Python
         </td>
-        <tr>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Excel-VBA-1.png" width="48" height="48" alt="VBA" />
@@ -79,6 +80,8 @@
           </a>
           <br>Visual Basic
         </td>
+        </tr>
+        <tr>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/net-framework-c-net-core-software-framework-mono-studio.jpg" width="48" height="48" alt="C#" />
@@ -91,7 +94,6 @@
           </a>
           <br>XML
         </td>
-        </tr>
         <td align="center" width="96">
           <a href="https://www.cprogramming.com/" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/c-original.svg" width="48" height="48" alt="C" />
@@ -128,14 +130,14 @@
           </a>
           <br>Visual Studio
         </td>
+       </tr>
+       <tr>
        <td align="center" width="96">
           <a href="https://docs.github.com/en/github" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Octocat.png" width="48" height="48" alt="Github" />
           </a>
           <br>Github
         </td>
-       </tr>
-       <tr>
        <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/PowerShell_5.0_icon.png" width="48" height="48" alt="Powershell" />
@@ -148,6 +150,8 @@
           </a>
           <br>Git
         </td>
+        </tr>
+        <tr>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/.net.png" width="48" height="48" alt="VB.net" />
