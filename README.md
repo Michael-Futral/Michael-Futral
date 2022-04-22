@@ -41,6 +41,7 @@
   <summary><b>🛠️&nbsp;&nbsp;Languages</b></summary>
   <p align="left">
     <table style="table-layout:fixed;">
+     <tr>
      <td align="center" width="96">
           <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/1200px-HTML5_logo_and_wordmark.svg.png" width="48" height="48" alt="HTML5" />
@@ -65,13 +66,13 @@
           </a>
           <br>Python
         </td>
+        <tr>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Excel-VBA-1.png" width="48" height="48" alt="VBA" />
           </a>
           <br>VBA
         </td>
-        <tr>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/VB.NET_Logo.svg.png" width="48" height="48" alt="Visual Basics" />
@@ -90,6 +91,7 @@
           </a>
           <br>XML
         </td>
+        </tr>
         <td align="center" width="96">
           <a href="https://www.cprogramming.com/" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/c-original.svg" width="48" height="48" alt="C" />
@@ -132,13 +134,14 @@
           </a>
           <br>Github
         </td>
+       </tr>
+       <tr>
        <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/PowerShell_5.0_icon.png" width="48" height="48" alt="Powershell" />
           </a>
           <br>Powershell
         </td>
-       <tr>
         <td align="center" width="96">
           <a href="https://git-scm.com/doc" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Git-Icon-1788C.png" width="48" height="48" alt="Git" />
