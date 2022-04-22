@@ -22,11 +22,12 @@
 <!-- CONTACT SECTION -->
 <h3><i>Connect with me through:</i></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/michael-futral" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://meta.stackoverflow.com/users/15780137/futralmc" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href='mailto:MicahelFutral01@gmail.com' target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="Email" height="30" width="40" />
-<a href="https://twitter.com/futral_michael" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/futralmc/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a><a href="https://www.codegrepper.com/profile/michael-futral" target="_blank"><img align="center" src="https://www.codegrepper.com/images/logo_colors_small.png" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/michael-futral" target="_blank" title = "linkedin"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://meta.stackoverflow.com/users/15780137/futralmc" target="_blank" title = "stackoverflow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href='mailto:MicahelFutral01@gmail.com' target="_blank" title = "email"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="Email" height="30" width="40" />
+<a href="https://twitter.com/futral_michael" target="_blank" title = "twitter"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/futralmc/" target="_blank" title = "instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.codegrepper.com/profile/michael-futral" target="_blank" title = "code grepper"><img align="center" src="https://www.codegrepper.com/images/logo_colors_small.png" alt="gautamkrishnar" height="30" width="40" /></a>
 </a>
 <br/>
 <br/>
