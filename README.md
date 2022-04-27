@@ -58,12 +58,7 @@
           </a>
           <br>JavaScript
         </td>
-        <td align="center" width="96">
-          <a href="https://nodejs.org/en/docs/" target="_blank">
-            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/nodejs-45adbe594d.png" width="48" height="48" alt="NodeJS" />
-          </a>
-          <br>NodeJS
-        </td>
+        <tr>
         <td align="center" width="96">
           <a href="https://www.python.org" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/python-original.svg" width="48" height="48" alt="Python" />
@@ -80,7 +75,7 @@
           <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/VB.NET_Logo.svg.png" width="48" height="48" alt="Visual Basics" />
           </a>
-          <br>Visual Basics
+          <br>Visual Basic
         </td>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
@@ -88,20 +83,19 @@
           </a>
           <br>C#
         </td>
-        <tr>
         <td align="center" width="96">
-          <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/xml.png" width="48" height="48" alt="C#" />
+          <a href="https://www.microfocus.com/documentation/extend-acucobol/925/BKITITNONVS004.html" target="_blank">
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/xml.png" width="48" height="48" alt="XML" />
           </a>
           <br>XML
         </td>
-        <tr>
         <td align="center" width="96">
           <a href="https://www.cprogramming.com/" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/c-original.svg" width="48" height="48" alt="C" />
           </a>
           <br>C
         </td>
+     </tr>
       </table>
     </p>
 </details>
@@ -126,16 +120,29 @@
           <br>React
         </td>
         <td align="center" width="96">
-          <a href="https://git-scm.com/doc" target="_blank">
-            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Git-Icon-1788C.png" width="48" height="48" alt="Git" />
-          </a>
-          <br>Git
-        </td>
-        <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2022" target="_blank">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/768px-Visual_Studio_2017_Logo.svg.png" width="48" height="48" alt="Visual Studio" />
           </a>
           <br>Visual Studio
+        </td>
+       <td align="center" width="96">
+          <a href="https://docs.github.com/en/github" target="_blank">
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Octocat.png" width="48" height="48" alt="Github" />
+          </a>
+          <br>Github
+        </td>
+       <td align="center" width="96">
+          <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/PowerShell_5.0_icon.png" width="48" height="48" alt="Powershell" />
+          </a>
+          <br>Powershell
+        </td>
+       <tr>
+        <td align="center" width="96">
+          <a href="https://git-scm.com/doc" target="_blank">
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Git-Icon-1788C.png" width="48" height="48" alt="Git" />
+          </a>
+          <br>Git
         </td>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank">
@@ -144,17 +151,12 @@
           <br>.net
         </td>
         <td align="center" width="96">
-          <a href="https://docs.github.com/en/github" target="_blank">
-            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Octocat.png" width="48" height="48" alt="Github" />
+          <a href="https://nodejs.org/en/docs/" target="_blank">
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/nodejs-45adbe594d.png" width="48" height="48" alt="NodeJS" />
           </a>
-          <br>Github
+          <br>NodeJS
         </td>
-        <td align="center" width="96">
-          <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
-            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/PowerShell_5.0_icon.png" width="48" height="48" alt="Powershell" />
-          </a>
-          <br>Powershell
-        </td>
+     </tr>
     </table>
   </p>
 </details>
