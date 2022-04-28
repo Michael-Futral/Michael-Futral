@@ -167,3 +167,6 @@
   </p>
 </details>
 <!-- TOOLS, FRAMEWORKS SKILLS SECTION -->
+
+
+<img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/cat-solid.svg" width="48" height="48" align="right" title= "meow meow meow!" alt = "CAT!!!">
