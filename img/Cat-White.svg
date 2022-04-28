@@ -4,8 +4,9 @@
 <desc>Created with Fabric.js 4.2.0</desc>
 <defs>
 </defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
 <g transform="matrix(1 0 0 1 540 540)" id="917cf579-7a70-42d9-9bd7-c003f9e429d5"  >
-<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(193,135,135); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
 </g>
 <g transform="matrix(1 0 0 1 540 540)" id="d2bee08e-617b-44f1-ac67-a5dbae4af66f"  >
 </g>
