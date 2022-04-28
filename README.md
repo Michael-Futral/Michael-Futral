@@ -169,4 +169,4 @@
 <!-- TOOLS, FRAMEWORKS SKILLS SECTION -->
 
 
-<a href= "https://www.aspca.org/adopt-pet/adoptable-dogs-your-local-shelter?ms=MP_PMK_GGAdoption-National&initialms=MP_PMK_GGAdoption-National&gclid=EAIaIQobChMIrNXy9-q19wIVBYyGCh3magYxEAAYASAAEgJJPvD_BwE"><img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/cat-solid.svg" width="48" height="48" align="right" title= "meow meow meow!" alt = "CAT!!!"></a><br><h6 align="right">-------</h6>
+<a href= "https://www.aspca.org/adopt-pet/adoptable-dogs-your-local-shelter?ms=MP_PMK_GGAdoption-National&initialms=MP_PMK_GGAdoption-National&gclid=EAIaIQobChMIrNXy9-q19wIVBYyGCh3magYxEAAYASAAEgJJPvD_BwE"><img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/cat-solid.svg" width="48" height="48" align="right" title= "meow meow meow!" alt = "CAT!!!"></a><br><BR><h6 align="right">-------</h6>
