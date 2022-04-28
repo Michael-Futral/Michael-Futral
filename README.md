@@ -21,12 +21,12 @@
 <!-- CONTACT SECTION -->
 <h3><i>Connect with me through:</i></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/michael-futral" target="_blank" title = "linkedin" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40"/></a>
-<a href="https://meta.stackoverflow.com/users/15780137/futralmc" target="_blank" title = "stackoverflow" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/michael-futral" target="_blank" title = "linkedin" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a>
+<a href="https://meta.stackoverflow.com/users/15780137/futralmc" target="_blank" title = "stackoverflow" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
 <a href='mailto:MichaelFutral01@gmail.com' target="_blank" title = "email" rel="noopener noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="Email" height="30" width="40" />
-<a href="https://twitter.com/futral_michael" target="_blank" title = "twitter" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/futralmc/" target="_blank" title = "instagram" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.codegrepper.com/profile/michael-futral" target="_blank" title = "code grepper" rel="noopener noreferrer"><img align="center" src="https://www.codegrepper.com/images/logo_colors_small.png" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://twitter.com/futral_michael" target="_blank" title = "twitter" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.instagram.com/futralmc/" target="_blank" title = "instagram" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.codegrepper.com/profile/michael-futral" target="_blank" title = "code grepper" rel="noopener noreferrer"><img align="center" src="https://www.codegrepper.com/images/logo_colors_small.png" alt="code grepper" height="30" width="40" /></a>
 </a>
 <br/>
 <br/>
@@ -41,13 +41,13 @@
     <table style="table-layout:fixed;">
      <tr>
      <td align="center" width="96">
-          <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noopener noreferrer">
+          <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noopener noreferrer" title = "Hyper Text Markup Language 5">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/1200px-HTML5_logo_and_wordmark.svg.png" width="48" height="48" alt="HTML5" />
           </a>
           <br>HTML5
         </td>
         <td align="center" width="96">
-          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"  title = "cascading style sheets 3">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/css3-original.svg" width="48" height="48" alt="CSS" />
           </a>
           <br>CSS
@@ -67,7 +67,7 @@
           <br>Python
         </td>
         <td align="center" width="96">
-          <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank" rel="noopener noreferrer">
+          <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank" rel="noopener noreferrer" title = "Visual Basic for Application">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Excel-VBA-1.png" width="48" height="48" alt="VBA" />
           </a>
           <br>VBA
@@ -81,13 +81,13 @@
         </tr>
         <tr>
         <td align="center" width="96">
-          <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer">
+          <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer" title = "C-sharp">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/net-framework-c-net-core-software-framework-mono-studio.jpg" width="48" height="48" alt="C#" />
           </a>
           <br>C#
         </td>
         <td align="center" width="96">
-          <a href="https://www.microfocus.com/documentation/extend-acucobol/925/BKITITNONVS004.html" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.microfocus.com/documentation/extend-acucobol/925/BKITITNONVS004.html" target="_blank" rel="noopener noreferrer" title = "Extensible Markup Language">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/xml.png" width="48" height="48" alt="XML" />
           </a>
           <br>XML
@@ -123,7 +123,7 @@
           <br>React
         </td>
         <td align="center" width="96">
-          <a href="https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2022" target="_blank" rel="noopener noreferrer">
+          <a href="https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2022" target="_blank" rel="noopener noreferrer"  title = "Visual Studio & VScode">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/768px-Visual_Studio_2017_Logo.svg.png" width="48" height="48" alt="Visual Studio" />
           </a>
           <br>Visual Studio
@@ -131,7 +131,7 @@
        </tr>
        <tr>
        <td align="center" width="96">
-          <a href="https://docs.github.com/en/github" target="_blank" rel="noopener noreferrer">
+          <a href="https://docs.github.com/en/github" target="_blank" rel="noopener noreferrer"  title = "You are here!!">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Octocat.png" width="48" height="48" alt="Github" />
           </a>
           <br>Github
