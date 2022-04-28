@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on open source, work & personal projects
 - 🌱 I'm always learning new and exciting tools in the ever evolving developer world.
 - 💬 Passionate about software development, so feel free to contact me with any exciting projects I can help on, job opportunities, or if you just want to chat!
-- ⚡ Fun fact: 1 in 10 people think <a href="https://www.latimes.com/business/technology/la-fi-tn-1-10-americans-html-std-study-finds-20140304-story.html#axzz2v1X0Ct00" target="_blank" rel="noreferrer noopener">HTML is a disease</a>... &#128562;
+- ⚡ Fun fact: 1 in 10 people think <a href="https://www.latimes.com/business/technology/la-fi-tn-1-10-americans-html-std-study-finds-20140304-story.html#axzz2v1X0Ct00" target="_blank" rel="noreferrer noopener" title ="Learn me!">HTML is a disease</a>... &#128562;
 <hr/>
 <!-- ABOUT SECTION-->
 
