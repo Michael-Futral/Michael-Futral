@@ -49,7 +49,7 @@
         </td>
         <td align="center" width="96">
           <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"  title = "cascading style sheets 3">
-            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/css3-original.svg" width="48" height="48" alt="CSS" />
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/css3-original.svg" width="48" height="48" alt="CSS3" />
           </a>
           <br>CSS
         </td>
