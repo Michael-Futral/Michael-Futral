@@ -27,7 +27,8 @@
 <a href="https://twitter.com/futral_michael" target="_blank" title = "twitter" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.instagram.com/futralmc/" target="_blank" title = "instagram" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="https://www.codegrepper.com/profile/michael-futral" target="_blank" title = "code grepper" rel="noopener noreferrer"><img align="center" src="https://www.codegrepper.com/images/logo_colors_small.png" alt="code grepper" height="30" width="40" /></a>
-</a>
+<a href="https://www.upwork.com/freelancers/~013494726aaa98ac1b?viewMode=1" target="_blank" title = "UpWork" rel="noopener noreferrer"><img align="center" src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/upwork%20(1).svg" alt="UpWork" height="30" width="40" /></a>
+ </a>
 <br/>
 <br/>
 <hr/>
@@ -48,7 +49,7 @@
         </td>
         <td align="center" width="96">
           <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"  title = "cascading style sheets 3">
-            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/css3-original.svg" width="48" height="48" alt="CSS" />
+            <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/css3-original.svg" width="48" height="48" alt="CSS3" />
           </a>
           <br>CSS
         </td>
@@ -169,4 +170,4 @@
 <!-- TOOLS, FRAMEWORKS SKILLS SECTION -->
 
 <!-- Easter Egg -->
-<a href= "https://www.aspca.org/adopt-pet/adoptable-dogs-your-local-shelter?ms=MP_PMK_GGAdoption-National&initialms=MP_PMK_GGAdoption-National&gclid=EAIaIQobChMIrNXy9-q19wIVBYyGCh3magYxEAAYASAAEgJJPvD_BwE"><img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Cat-White-No-Background.png" width="60" height="60" align="right" title= 'CLICK TO HELP!!... meow meow' alt = "CAT!!!"></a>
+<a href= "https://www.aspca.org/adopt-pet/adoptable-dogs-your-local-shelter?ms=MP_PMK_GGAdoption-National&initialms=MP_PMK_GGAdoption-National&gclid=EAIaIQobChMIrNXy9-q19wIVBYyGCh3magYxEAAYASAAEgJJPvD_BwE"><img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Cat-White-No-Background.png" width="150" height="150" align="right" title= 'CLICK TO HELP!!... meow meow' alt = "CAT!!!"></a>
