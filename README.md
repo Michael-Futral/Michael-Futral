@@ -26,7 +26,7 @@
 <a href='mailto:MichaelFutral01@gmail.com' target="_blank" title = "email" rel="noopener noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="Email" height="30" width="40" />
 <a href="https://twitter.com/futral_michael" target="_blank" title = "twitter" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.instagram.com/futralmc/" target="_blank" title = "instagram" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.codegrepper.com/profile/michael-futral" target="_blank" title = "code grepper" rel="noopener noreferrer"><img align="center" src="https://www.codegrepper.com/images/logo_colors_small.png" alt="code grepper" height="30" width="40" /></a>
+<a href="https://www.codegrepper.com/profile/michael-futral" target="_blank" title = "code grepper" rel="noopener noreferrer"><img align="center" src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/grepper_logo_colors_small.png" alt="code grepper" height="30" width="40" /></a>
 <a href="https://www.upwork.com/freelancers/~013494726aaa98ac1b?viewMode=1" target="_blank" title = "UpWork" rel="noopener noreferrer"><img align="center" src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/upwork%20(1).svg" alt="UpWork" height="30" width="40" /></a>
  </a>
 <br/>
