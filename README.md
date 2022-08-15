@@ -17,7 +17,7 @@
 - ⚡ Fun fact: 1 in 10 people think <a href="https://www.latimes.com/business/technology/la-fi-tn-1-10-americans-html-std-study-finds-20140304-story.html#axzz2v1X0Ct00" target="_blank" rel="noreferrer noopener" title ="Learn more!">HTML is a disease</a>... &#128562;
 <hr/>
 <!-- ABOUT SECTION-->
- 
+  
 <!-- CONTACT SECTION -->
 <h3><i>Connect with me through:</i></h3>
 <p align="left">
