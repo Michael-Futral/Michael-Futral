@@ -37,7 +37,7 @@
 <!-- LANGUAGE SKILLS SECTION -->
 <h3><i>Current skills encompass:</i></h3>
  <details>
-  <summary title = "click to show list of languages!"><b>🛠️&nbsp;&nbsp;LANGUAGES → |❎| click to view</b></summary>
+  <summary title = "click to show list of languages!"><b>🛠️&nbsp;&nbsp;LANGUAGES → </a>|❎| click to view</b><img src="https://media.giphy.com/media/RJT3gV3BBy8t0sdIXm/giphy.gif" width="30px"></summary>
   <p align="left">
     <table style="table-layout:fixed;">
      <tr>
@@ -107,7 +107,7 @@
 
 <!-- TOOLS, FRAMEWORKS SKILLS SECTION -->
 <details>
-  <summary title = "click to show list of tools and frameworks!"><b>🛠️&nbsp;&nbsp;TOOLS / FRAMEWORKS → |❎| click to view</b></summary>
+  <summary title = "click to show list of tools and frameworks!"><b>🛠️&nbsp;&nbsp;TOOLS / FRAMEWORKS → |❎| click to view<img src="https://media.giphy.com/media/RJT3gV3BBy8t0sdIXm/giphy.gif" width="30px"></b></summary>
   <p align="left">
     <table style="table-layout:fixed;">
       <tr>
