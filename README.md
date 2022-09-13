@@ -165,10 +165,14 @@
 <!-- TOOLS, FRAMEWORKS SKILLS SECTION -->
 <hr/>
 
+</br>
+</br>
+</br>
+
 
 <!-- CONTACT SECTION -->
-<h3 align="right"><i>Connect with me through:</i></h3>
-<p align="right"
+<h3 align="center"><i>Connect with me through:</i></h3>
+<p align="center"
 <a href="https://www.linkedin.com/in/michael-futral" target="_blank" title = "linkedin" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a>
 <a href="https://meta.stackoverflow.com/users/15780137/futralmc" target="_blank" title = "stackoverflow" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
 <a href='mailto:MichaelFutral01@gmail.com' target="_blank" title = "email" rel="noopener noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="Email" height="30" width="40" />
@@ -180,7 +184,5 @@
 
 <!-- CONTACT SECTION -->
 
-
 <!-- Easter Egg -->
 <a href= "https://www.aspca.org/adopt-pet/adoptable-dogs-your-local-shelter?ms=MP_PMK_GGAdoption-National&initialms=MP_PMK_GGAdoption-National&gclid=EAIaIQobChMIrNXy9-q19wIVBYyGCh3magYxEAAYASAAEgJJPvD_BwE"><img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Cat-White-No-Background.png" width="150" height="150" align="right" title= 'CLICK TO HELP!!... meow meow' alt = "CAT!!!"></a> 
-
