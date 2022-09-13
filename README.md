@@ -185,4 +185,4 @@
 <!-- CONTACT SECTION -->
 
 <!-- Easter Egg -->
-<a href= "https://www.aspca.org/adopt-pet/adoptable-dogs-your-local-shelter?ms=MP_PMK_GGAdoption-National&initialms=MP_PMK_GGAdoption-National&gclid=EAIaIQobChMIrNXy9-q19wIVBYyGCh3magYxEAAYASAAEgJJPvD_BwE"><img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Cat-White-No-Background.png" width="150" height="150" align="right" title= 'CLICK TO HELP!!... meow meow' alt = "CAT!!!"></a> 
+<a href= "https://www.aspca.org/adopt-pet/adoptable-dogs-your-local-shelter?ms=MP_PMK_GGAdoption-National&initialms=MP_PMK_GGAdoption-National&gclid=EAIaIQobChMIrNXy9-q19wIVBYyGCh3magYxEAAYASAAEgJJPvD_BwE"><img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Cat-White-No-Background.png" width="80" height="80" align="right" title= 'CLICK TO HELP!!... meow meow' alt = "CAT!!!"></a> 
