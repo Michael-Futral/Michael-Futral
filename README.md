@@ -17,25 +17,20 @@
 - ⚡ Fun fact: 1 in 10 people think <a href="https://www.latimes.com/business/technology/la-fi-tn-1-10-americans-html-std-study-finds-20140304-story.html#axzz2v1X0Ct00" target="_blank" rel="noreferrer noopener" title ="Learn more!">HTML is a disease</a>... &#128562;
 <hr/>
 <!-- ABOUT SECTION-->
-  
-<!-- CONTACT SECTION -->
-<h3><i>Connect with me through:</i></h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/michael-futral" target="_blank" title = "linkedin" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a>
-<a href="https://meta.stackoverflow.com/users/15780137/futralmc" target="_blank" title = "stackoverflow" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
-<a href='mailto:MichaelFutral01@gmail.com' target="_blank" title = "email" rel="noopener noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="Email" height="30" width="40" />
-<a href="https://twitter.com/futral_michael" target="_blank" title = "twitter" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.instagram.com/futralmc/" target="_blank" title = "instagram" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.codegrepper.com/profile/michael-futral" target="_blank" title = "code grepper" rel="noopener noreferrer"><img align="center" src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/grepper_logo_colors_small.png" alt="code grepper" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~013494726aaa98ac1b?viewMode=1" target="_blank" title = "UpWork" rel="noopener noreferrer"><img align="center" src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/upwork%20(1).svg" alt="UpWork" height="30" width="40" /></a>
- </a>
 <br/>
-<br/>
+
+
+<!-- STATS SECTION -->
+<h1 align="center">Current Stats & Skills</h1>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Futral&show_icons=true&theme=vue-dark&border_radius=50px&show)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Futral&layout=compact&theme=dark&border_radius=50px&show)](https://github.com/Michael-Futral/github-readme-stats)
 <hr/>
-<!-- CONTACT SECTION -->
+
+
 
 <!-- LANGUAGE SKILLS SECTION -->
-<h3><i>Current skills encompass:</i></h3>
+
  <details>
   <summary title = "click to show list of languages!"><b>🛠️&nbsp;&nbsp;LANGUAGES → </a>❎(click to view)</b></summary>
   <p align="left">
@@ -168,6 +163,24 @@
   </p>
 </details>
 <!-- TOOLS, FRAMEWORKS SKILLS SECTION -->
+<hr/>
+
+
+<!-- CONTACT SECTION -->
+<h3 align="right"><i>Connect with me through:</i></h3>
+<p align="right"
+<a href="https://www.linkedin.com/in/michael-futral" target="_blank" title = "linkedin" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a>
+<a href="https://meta.stackoverflow.com/users/15780137/futralmc" target="_blank" title = "stackoverflow" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
+<a href='mailto:MichaelFutral01@gmail.com' target="_blank" title = "email" rel="noopener noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="Email" height="30" width="40" />
+<a href="https://twitter.com/futral_michael" target="_blank" title = "twitter" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.instagram.com/futralmc/" target="_blank" title = "instagram" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.codegrepper.com/profile/michael-futral" target="_blank" title = "code grepper" rel="noopener noreferrer"><img align="center" src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/grepper_logo_colors_small.png" alt="code grepper" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~013494726aaa98ac1b?viewMode=1" target="_blank" title = "UpWork" rel="noopener noreferrer"><img align="center" src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/upwork%20(1).svg" alt="UpWork" height="30" width="40" /></a>
+ </a>
+
+<!-- CONTACT SECTION -->
+
 
 <!-- Easter Egg -->
 <a href= "https://www.aspca.org/adopt-pet/adoptable-dogs-your-local-shelter?ms=MP_PMK_GGAdoption-National&initialms=MP_PMK_GGAdoption-National&gclid=EAIaIQobChMIrNXy9-q19wIVBYyGCh3magYxEAAYASAAEgJJPvD_BwE"><img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Cat-White-No-Background.png" width="150" height="150" align="right" title= 'CLICK TO HELP!!... meow meow' alt = "CAT!!!"></a> 
+
