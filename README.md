@@ -29,7 +29,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Futral&show_icons=true&theme=vue-dark&border_radius=50px&show)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Futral&layout=compact&theme=dark&border_radius=50px&show)](https://github.com/Michael-Futral/github-readme-stats)
 
-<div/>
+
 <hr/>
 
 
@@ -186,7 +186,8 @@
 <a href="https://www.codegrepper.com/profile/michael-futral" target="_blank" title = "code grepper" rel="noopener noreferrer"><img align="center" src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/grepper_logo_colors_small.png" alt="code grepper" height="30" width="40" /></a>
 <a href="https://www.upwork.com/freelancers/~013494726aaa98ac1b?viewMode=1" target="_blank" title = "UpWork" rel="noopener noreferrer"><img align="center" src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/upwork%20(1).svg" alt="UpWork" height="30" width="40" /></a>
  </a>
-
+ 
+</div>
 <!-- CONTACT SECTION -->
 
 <!-- Easter Egg -->
