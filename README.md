@@ -19,11 +19,10 @@
 <!-- ABOUT SECTION-->
 <br/>
 <br/>
-<br/>
 
 
 <!-- STATS SECTION -->
-<h1 align="center">Current Stats & Skills</h1>
+<h1 align="center">Github Repository Stats</h1>
 <div align="center">
 <a href="https://github.com/sponsors/Michael-Futral">
 
@@ -33,11 +32,12 @@
 <a/>
 </div>
 <hr/>
+<br/>
 
 
 
 <!-- LANGUAGE SKILLS SECTION -->
-
+<h1 align="center">Programming Skills and Knowledge</h1>
  <details>
   <summary title = "click to show list of languages!"><b>🛠️&nbsp;&nbsp;LANGUAGES → </a>❎(click to view)</b></summary>
   <p align="left">
