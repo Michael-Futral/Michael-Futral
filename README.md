@@ -38,7 +38,7 @@
 
 
 <!-- LANGUAGE SKILLS SECTION -->
-<h1 align="center">Programming Skills and Knowledge</h1>
+<h1 align="center">Skills and Knowledge</h1>
  <details>
   <summary title = "click to show list of languages!"><b>🛠️&nbsp;&nbsp;LANGUAGES → </a>❎(click to view)</b></summary>
   <p align="left">
