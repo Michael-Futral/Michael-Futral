@@ -40,7 +40,6 @@
   <summary title = "click to show list of languages!"><b>🛠️&nbsp;&nbsp;LANGUAGES → </a>❎(click to view)</b></summary>
   <p align="left">
     <table style="table-layout:fixed;">
-     <tr>
      <td align="center" width="96">
           <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noopener noreferrer" title = "Hyper Text Markup Language 5">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/1200px-HTML5_logo_and_wordmark.svg.png" width="48" height="48" alt="HTML5" />
@@ -59,8 +58,6 @@
           </a>
           <br>JavaScript
         </td>
-        </tr>
-        <tr>
         <td align="center" width="96">
           <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/python-original.svg" width="48" height="48" alt="Python" />
@@ -79,8 +76,6 @@
           </a>
           <br>Visual Basic
         </td>
-        </tr>
-        <tr>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer" title = "C-sharp">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/net-framework-c-net-core-software-framework-mono-studio.jpg" width="48" height="48" alt="C#" />
@@ -99,7 +94,6 @@
           </a>
           <br>C
         </td>
-     </tr>
       </table>
     </p>
 </details>
@@ -110,7 +104,6 @@
   <summary title = "click to show list of tools and frameworks!"><b>🛠️&nbsp;&nbsp;TOOLS / FRAMEWORKS → ❎(click to view)</b></summary>
   <p align="left">
     <table style="table-layout:fixed;">
-      <tr>
         <td align="center" width="96">
           <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/" target="_blank" rel="noopener noreferrer">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
@@ -129,8 +122,6 @@
           </a>
           <br>Visual Studio
         </td>
-       </tr>
-       <tr>
        <td align="center" width="96">
           <a href="https://docs.github.com/en/github" target="_blank" rel="noopener noreferrer"  title = "You are here!!">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/Octocat.png" width="48" height="48" alt="Github" />
@@ -149,8 +140,6 @@
           </a>
           <br>Git
         </td>
-        </tr>
-        <tr>
         <td align="center" width="96">
           <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noopener noreferrer">
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/.net.png" width="48" height="48" alt="VB.net" />
@@ -163,7 +152,6 @@
           </a>
           <br>NodeJS
         </td>
-     </tr>
     </table>
   </p>
 </details>
