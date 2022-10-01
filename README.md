@@ -10,7 +10,7 @@
 <!-- HEADER --> 
    
 <!-- ABOUT SECTION-->
-
+ 
 - 🔭 I’m currently working on open source, work & personal projects
 - 🌱 I'm always learning new and exciting tools in the ever evolving developer world.
 - 💬 Passionate about software development, so feel free to contact me with any exciting projects I can help on, job opportunities, or if you just want to chat!
