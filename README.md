@@ -120,7 +120,7 @@
           <br>React
         </td>
         <td align="center" width="96">
-          <a href="https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2022" target="_blank" rel="noopener noreferrer"  title = "Visual Studio & VScode">
+          <a href="https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2022" target="_blank" rel="noopener noreferrer"  title = "Visual Studio & VScode"> 
             <img src="https://github.com/Michael-Futral/Michael-Futral/blob/main/img/768px-Visual_Studio_2017_Logo.svg.png" width="48" height="48" alt="Visual Studio" />
           </a>
           <br>Visual Studio
