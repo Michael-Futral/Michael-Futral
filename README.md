@@ -3,7 +3,7 @@
 <!-- JUMBOTRON -->   
 <h1 align="center" >HELLO THERE!  <a href="https://www.youtube.com/watch?v=LBjUh4bYF8w"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px" target="_blank" title = "click me!!"></a></h1>  
 <!-- JUMBOTRON -->   
- 
+  
 <!-- HEADER --> 
 <h3 align="center">You've entered the place where I make stuff, fix stuff, and try not to break stuff!  &#128523;</h3>
 <hr/>
