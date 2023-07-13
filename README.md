@@ -6,7 +6,7 @@
         
 <!-- HEADER --> 
 <h3 align="center">You've entered the place where I make stuff, fix stuff, and try not to break stuff!  &#128523;</h3>
-<hr/> 
+<hr/>  
 <!-- HEADER -->      
      
 <!-- ABOUT SECTION--> 
