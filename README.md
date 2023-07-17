@@ -9,7 +9,7 @@
 <hr/>  
 <!-- HEADER -->      
        
-<!-- ABOUT SECTION--> 
+<!-- ABOUT SECTION-->  
  
 - 🔭 I’m currently working on open source, work & personal projects
 - 🌱 I'm always learning new and exciting tools in the ever evolving developer world.
